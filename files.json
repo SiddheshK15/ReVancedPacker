@@ -1,0 +1,30 @@
+{
+    "ReVanced CLI": [
+        "rvcli.jar",
+        "https://github.com/revanced/revanced-cli/releases/download/v2.5.1/revanced-cli-2.5.1-all.jar"
+    ],
+    "ReVanced Patches": [
+        "patches.jar",
+        "https://github.com/revanced/revanced-patches/releases/download/v2.12.2/revanced-patches-2.12.2.jar"
+    ],
+    "ReVanced Integrations": [
+        "integrations.apk",
+        "https://github.com/revanced/revanced-integrations/releases/download/v0.21.9/app-release-unsigned.apk"
+    ],
+    "Youtube": [
+        "youtube.apk",
+        "https://github.com/xemulat/MyFilesForDDL/releases/download/youtube/youtube.apk"
+    ],
+    "Youtube Beta": [
+        "Youtube.apkm",
+        "https://github.com/xemulat/MyFilesForDDL/releases/download/youtube-beta/youtube.apk"
+    ],
+    "Java 17": [
+        "java.msi",
+        "https://github.com/xemulat/MyFilesForDDL/releases/download/jdk/java.msi"
+    ],
+    "MicroG": [
+        "MicroG.apk",
+        "https://github.com/xemulat/MyFilesForDDL/releases/download/microg/microg.apk"
+    ]
+}
